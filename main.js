@@ -6,7 +6,7 @@ import VectorTileSource from 'ol/source/VectorTile';
 import View from 'ol/View';
 import {Fill, Stroke, Style} from 'ol/style';
 
-const zoom = 14
+const zoom = 14.493205628579398
 const center = [-225002.55911738425, 1433313.650332927]
 
 var country = new Style({
