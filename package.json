@@ -4,13 +4,13 @@
   "description": "",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build --experimental-scope-hoisting --public-url . index.html"
+    "build": "parcel build -d dist5 --experimental-scope-hoisting --public-url . index.html"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ol": "6.4.3"
+    "ol": "5.3.3"
   },
   "devDependencies": {
     "parcel": "1.11.0"
